@@ -5,14 +5,14 @@ Checkpointing/Restore Framework for Reconfigurable Systems
 
 Copyright (C) 2016, Shinya Takamaeda-Yamazaki
 
-E-mail: shinya\_at\_is.naist.jp
+E-mail: takamaeda_at_ist.hokudai.ac.jp
 
 License
 =======
 
 Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 
-What's HardCheck?
+What’s HardCheck?
 =================
 
 Installation
@@ -31,7 +31,7 @@ Install on your platform. For exmple, on Ubuntu:
 
 ::
 
-    sudo apt-get install iverilog
+   sudo apt-get install iverilog
 
 -  Jinja2: 2.8 or later
 
@@ -39,7 +39,7 @@ Install on your python environment by using pip:
 
 ::
 
-    pip install jinja2
+   pip install jinja2
 
 -  Pyverilog: 1.0.6 or later
 
@@ -47,7 +47,7 @@ Install from pip (or download and install from GitHub):
 
 ::
 
-    pip install pyverilog
+   pip install pyverilog
 
 -  Veriloggen: 0.6.1 or later
 
@@ -55,7 +55,7 @@ Install from pip (or download and install from GitHub):
 
 ::
 
-    pip install veriloggen
+   pip install veriloggen
 
 -  IPgen: 0.2.0 or later
 
@@ -63,7 +63,7 @@ Install from pip (or download and install from GitHub):
 
 ::
 
-    pip install ipgen
+   pip install ipgen
 
 Options
 -------
@@ -76,7 +76,7 @@ examples:
 
 ::
 
-    pip install pytest pytest-pythonpath
+   pip install pytest pytest-pythonpath
 
 Install
 -------
@@ -85,7 +85,7 @@ Install HardCheck:
 
 ::
 
-    python setup.py install
+   python setup.py install
 
 Getting Started
 ===============

@@ -5,7 +5,7 @@ Checkpointing/Restore Framework for Reconfigurable Systems
 
 Copyright (C) 2016, Shinya Takamaeda-Yamazaki
 
-E-mail: shinya\_at\_is.naist.jp
+E-mail: takamaeda\_at\_ist.hokudai.ac.jp
 
 
 License
